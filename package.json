@@ -1,0 +1,18 @@
+{
+  "name": "hellooow-processing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "npm": "^4.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
